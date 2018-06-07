@@ -10,5 +10,5 @@ this repository contains my assignments
 [assignment 5 R](https://github.com/Pascalevdven/assignments/blob/master/Graded_assignment1.ipynb)
 [assignment 6 R](https://github.com/Pascalevdven/assignments/blob/master/Graded_assignment_2.ipynb) 
 [my CV](https://github.com/janboone/assignments/blob/master/CV.md)
-[ Final assigment P] (https://github.com/Pascalevdven/assignments/blob/master/exam_june_7_2018.ipynb)
-[ Final assigment R] ( https://github.com/Pascalevdven/assignments/blob/master/Exam_student.ipynb)
+[ Final assigment P](https://github.com/Pascalevdven/assignments/blob/master/exam_june_7_2018.ipynb)
+[ Final assigment R]( https://github.com/Pascalevdven/assignments/blob/master/Exam_student.ipynb)
