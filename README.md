@@ -14,5 +14,5 @@ this repository contains my assignments
 [ Final assigment R]( https://github.com/Pascalevdven/assignments/blob/master/Exam_student.ipynb)
 
  
-[exam_sep_21 P]( https://github.com/Pascalevdven/assignments/blob/master/exam_Sep_21_2018.ipynb)
+[exam_sep_21 Python]( https://github.com/Pascalevdven/assignments/blob/master/exam_Sep_21_2018.ipynb)
 [exam_sep_21 R](https://github.com/Pascalevdven/assignments/blob/master/exam_2_student.ipynb)
